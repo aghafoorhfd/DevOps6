@@ -6,5 +6,5 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>DevOps_7_C</RootNamespace>
   </PropertyGroup>
-
+<Target Name="EchoGreeting" />
 </Project>
